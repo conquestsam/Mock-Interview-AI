@@ -8,7 +8,11 @@ The application was designed to reduce failure during interview by leveraging on
 4. Start your Interview
 5. Provide answers to all AI generated five questions
 6. It will generate your interview report
-7. You will see all your previous interview again at the dashboard. 
+7. You will see all your previous interview again at the dashboard.
+
+![mock1](https://github.com/user-attachments/assets/543a451a-a1da-4811-a65f-51b1a95d9fcb)
+
+
 
 
 
