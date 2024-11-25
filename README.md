@@ -1,3 +1,22 @@
+## Mock InterView AI 
+The application was designed to reduce failure during interview by leveraging on AI to generate commonly asked questions on a specific job role/position with detailed job description prompt. 
+
+## Applications functionalities 
+1. Landing page
+2. Authentication with Clerk
+3. Dashboard
+4. Start your Interview
+5. Provide answers to all AI generated five questions
+6. It will generate your interview report
+7. You will see all your previous interview again at the dashboard. 
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
